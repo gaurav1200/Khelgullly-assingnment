@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Khelgullly-assingnment/static/css/main.7e4b56af.chunk.css",
+    "main.js": "/Khelgullly-assingnment/static/js/main.b14671f8.chunk.js",
+    "main.js.map": "/Khelgullly-assingnment/static/js/main.b14671f8.chunk.js.map",
+    "runtime-main.js": "/Khelgullly-assingnment/static/js/runtime-main.a754d481.js",
+    "runtime-main.js.map": "/Khelgullly-assingnment/static/js/runtime-main.a754d481.js.map",
+    "static/js/2.6d9064d6.chunk.js": "/Khelgullly-assingnment/static/js/2.6d9064d6.chunk.js",
+    "static/js/2.6d9064d6.chunk.js.map": "/Khelgullly-assingnment/static/js/2.6d9064d6.chunk.js.map",
+    "static/js/3.43845202.chunk.js": "/Khelgullly-assingnment/static/js/3.43845202.chunk.js",
+    "static/js/3.43845202.chunk.js.map": "/Khelgullly-assingnment/static/js/3.43845202.chunk.js.map",
+    "index.html": "/Khelgullly-assingnment/index.html",
+    "static/css/main.7e4b56af.chunk.css.map": "/Khelgullly-assingnment/static/css/main.7e4b56af.chunk.css.map",
+    "static/js/2.6d9064d6.chunk.js.LICENSE.txt": "/Khelgullly-assingnment/static/js/2.6d9064d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a754d481.js",
+    "static/js/2.6d9064d6.chunk.js",
+    "static/css/main.7e4b56af.chunk.css",
+    "static/js/main.b14671f8.chunk.js"
+  ]
+}
